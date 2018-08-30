@@ -1,5 +1,9 @@
 /**
  * Created by wangshuyang on 2018-8-30.
+ *
+ * 求二叉树节点之间的最远距离
+ *
+ * 求出二叉树中每个节点到左右子树叶节点的最远距离之和，最大的就是二叉树中节点之间的最远距离
  */
 public class FastDitenceInBinaryTree {
     static int maxDistence = 0;
